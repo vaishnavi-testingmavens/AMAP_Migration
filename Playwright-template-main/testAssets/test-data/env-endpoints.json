@@ -1,9 +1,0 @@
-{
-    "brands": "/api/brands",
-    "products": "/api/products",
-    "registerUser": "/api/auth/register",
-    "networkCalls": {
-        "notificationsApi": "/playground-api/notifications?",
-        "allRegionIdApi": "/playground-api/notifications?"
-    }
-}

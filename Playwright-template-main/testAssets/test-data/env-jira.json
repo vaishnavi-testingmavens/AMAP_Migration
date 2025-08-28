@@ -1,6 +1,0 @@
-{
-    "jiraUrl": "https://{jiradomain}.atlassian.net/rest/api/latest/issue",
-    "access_token": "",
-    "automationExecutionStatusField": "customfield_123456",
-    "executionTimeField": "customfield_98765"    
-}
