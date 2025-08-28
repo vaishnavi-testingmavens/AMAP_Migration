@@ -1,0 +1,26 @@
+[
+  {
+    "role": "User",
+    "firstName": "Requestor",
+    "lastName": "105",
+    "email":"requestor.105@mailsac.com",
+    "password":"Test@123",
+    "address1":"105 Main St",
+    "city":"New York",
+    "state":"New York",
+    "zip":"10105"
+  },
+  {
+      "role": "Agent",
+      "firstName": "Agent",
+      "lastName": "105",
+      "email":"agent.105@mailsac.com",
+      "phone":"2123643773",
+      "password":"Test@123",
+      "address1":"105 Kings St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10105",
+      "system":"abc"
+  }
+]

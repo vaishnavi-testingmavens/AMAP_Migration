@@ -1,0 +1,22 @@
+{
+  "schema": {
+    "type": "object",
+    "properties": {
+      "message": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "message"
+    ]
+  },
+  "createUserData": {
+    "email": "john.doe@example.com",
+    "password": "TestPass123!",
+    "fullName": "John Doe",
+    "gender": "Male",
+    "country": "United States",
+    "bio": "Software developer with 5 years of experience in full-stack development.",
+    "agreeToTerms": true
+  }
+}
